@@ -4,7 +4,7 @@
     font-family: Orbitron;
 }
 
-#span {
+span {
 font-weight: bold;
 }
 
@@ -25,7 +25,7 @@ h2 {
 }
 
 li {
-    letter-spacing: 2px;
+    line-height: 2;
 }
 
 #characters {
